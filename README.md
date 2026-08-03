@@ -1,7 +1,22 @@
 # Todo — COMS3011A Lab 1
 
+---
+AI Declaration: The preceding document was reviewed and edited with the
+assistance of: Claude-Web[Claude Sonnet 5]
+---
+
 A local-first todo application. No accounts, no deployment — a single user
 runs it on their own machine.
+
+## AI Usage
+
+This repository makes use of AI code generation using the following tools:
+Claude-Web[Claude Sonnet 5]
+
+This repository does not use AI in-line editing tools.
+
+This repository makes use of AI code review using the following tools:
+Claude-Web[Claude Sonnet 5]
 
 ## Third-Party Code
 
@@ -55,7 +70,8 @@ Design decisions:
 
 ## Running It
 
-Requires **Node.js 20 or later** (developed and tested on Node 22).
+**Tested with Node.js v22.12.0** (v20+ should work, but v22.12.0 is the
+exact version used for verification).
 
 From a clean clone:
 
