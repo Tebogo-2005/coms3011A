@@ -2,7 +2,7 @@
 
 ---
 AI Declaration: The preceding document was reviewed and edited with the
-assistance of: Claude-Web[Claude Sonnet 5]
+assistance of: Claude-Web[Claude Sonnet 5], DeepSeek-Web[DeepSeek-V3]
 ---
 
 A local-first todo application. No accounts, no deployment — a single user
@@ -11,12 +11,12 @@ runs it on their own machine.
 ## AI Usage
 
 This repository makes use of AI code generation using the following tools:
-Claude-Web[Claude Sonnet 5]
+Claude-Web[Claude Sonnet 5], DeepSeek-Web[DeepSeek-V3]
 
 This repository does not use AI in-line editing tools.
 
 This repository makes use of AI code review using the following tools:
-Claude-Web[Claude Sonnet 5]
+Claude-Web[Claude Sonnet 5], DeepSeek-Web[DeepSeek-V3]
 
 ## Third-Party Code
 
